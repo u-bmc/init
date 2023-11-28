@@ -1,8 +1,11 @@
-module github.com/u-bmc/go-project-template
+module github.com/u-bmc/init
 
 go 1.21
 
-require dagger.io/dagger v0.9.3
+require (
+	dagger.io/dagger v0.9.3
+	golang.org/x/sys v0.13.0
+)
 
 require (
 	github.com/99designs/gqlgen v0.17.31 // indirect
@@ -12,5 +15,4 @@ require (
 	github.com/vektah/gqlparser/v2 v2.5.6 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
 	golang.org/x/sync v0.4.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
 )
