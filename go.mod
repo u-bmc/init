@@ -3,7 +3,7 @@ module github.com/u-bmc/init
 go 1.21
 
 require (
-	dagger.io/dagger v0.9.4
+	dagger.io/dagger v0.9.5
 	golang.org/x/sys v0.15.0
 )
 
