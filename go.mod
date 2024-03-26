@@ -3,8 +3,8 @@ module github.com/u-bmc/init
 go 1.21
 
 require (
-	dagger.io/dagger v0.9.4
-	golang.org/x/sys v0.15.0
+	dagger.io/dagger v0.10.3
+	golang.org/x/sys v0.17.0
 )
 
 require (
@@ -13,6 +13,6 @@ require (
 	github.com/adrg/xdg v0.4.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/vektah/gqlparser/v2 v2.5.6 // indirect
-	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/sync v0.4.0 // indirect
+	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa // indirect
+	golang.org/x/sync v0.6.0 // indirect
 )
