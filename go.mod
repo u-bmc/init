@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	dagger.io/dagger v0.9.4
-	golang.org/x/sys v0.15.0
+	golang.org/x/sys v0.26.0
 )
 
 require (
