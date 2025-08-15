@@ -1,5 +1,9 @@
 # u-bmc system init
 
+> **DEPRECATED**
+>
+> This repository is deprecated. All current development has moved to the main [u-bmc/u-bmc](https://github.com/u-bmc/u-bmc) repository.
+
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 This is a small init program meant to be run from inside an initramfs as the first program the Linux Kernel launches.
